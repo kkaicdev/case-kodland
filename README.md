@@ -1,5 +1,5 @@
 # case-kodland
-Esse projeto é um case de um teste técnico da empresa Kodland.
+Esse projeto é um case de um teste técnico da Kodland.
 
 - pgzhelper.py é um módulo auxiliar que facilita a utilização de funcionalidades do Pygame Zero.
 
