@@ -1,8 +1,10 @@
 # case-kodland
-Esse projeto é um case de um teste técnico da Kodland.
+This project is a technical test for company Kodland.
 
-- pgzhelper.py é um módulo auxiliar que facilita a utilização de funcionalidades do Pygame Zero.
+- the file pgzhelper.py is a helper module that simplifies the use of Pygame Zero features
 
-- requirements.txt contém as libs necessárias para rodar o Pygame Zero.
+- requirements.txt contains the libraries needed to run Pygame Zero.
+
+- ! this repository does not include ambient music or sprites. If you want to run the project, you will need to add folders named /sounds/ and /images/, respectively.
 
 ![demo](https://imgur.com/fXXxCDr.gif)
