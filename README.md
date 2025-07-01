@@ -11,6 +11,8 @@ The goal was to build a functional, modular game with clean, readable code follo
 - the file pgzhelper.py is a helper module that simplifies the use of Pygame Zero features
 - requirements.txt contains the libraries needed to run Pygame Zero.
 
+---
+
 (PT-BR) Este projeto foi desenvolvido como parte de um teste técnico para uma vaga de programador Python na empresa Kodland. As regras do desafio incluíam:
 
 - "Aplicação de Clean Code"
